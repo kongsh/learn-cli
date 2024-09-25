@@ -8,4 +8,3 @@
 - restore
 - branch
 - switch
-.
