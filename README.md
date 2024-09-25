@@ -11,4 +11,8 @@
 - merge
 
 ## Git 병합 방법 (3가지 방식)
+<<<<<<< HEAD
 - 3Way
+=======
+- Fast Forward
+>>>>>>> likelion
